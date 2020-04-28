@@ -1,4 +1,8 @@
-# BlueFramework
+# THIS REPOSITORY IS NOT MAINTAINED ANYMORE.
+
+Please refer to the [new repository](https://github.com/tumcms/Blue-Framework) for latest developments.
+
+# (old) BlueFramework
 
 ## Short overview
 
